@@ -1,0 +1,25 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+env/
+venv/
+
+# Environment files
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# SQLite database
+*.sqlite3
+
+# Docker files (optional, if you don’t want local Docker artifacts)
+*.dockerignore
